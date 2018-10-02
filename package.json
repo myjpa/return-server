@@ -1,0 +1,27 @@
+{
+  "name": "return-server",
+  "version": "1.0.0",
+  "description": "a web server respond exactly as instructed in the request header or body",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myjpa/return-server.git"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "test",
+    "debug",
+    "echo",
+    "bounce"
+  ],
+  "author": "Hao Liu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myjpa/return-server/issues"
+  },
+  "homepage": "https://github.com/myjpa/return-server#readme"
+}
