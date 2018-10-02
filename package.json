@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/myjpa/return-server/issues"
   },
-  "homepage": "https://github.com/myjpa/return-server#readme"
+  "homepage": "https://github.com/myjpa/return-server#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
